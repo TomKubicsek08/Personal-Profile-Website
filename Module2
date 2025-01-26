@@ -22,7 +22,7 @@ Module2/
 
     <!-- Image Section -->
     <section>
-        <img src="image.jpeg" alt="A photo of me" width="300">
+        <img src="images/image.jpeg" alt="A photo of a waterfall" width="300">
     </section>
 
     <!-- About Me Section -->
