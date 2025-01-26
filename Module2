@@ -1,0 +1,7 @@
+Module2/
+ ├── website/
+      ├── index.html
+      ├── stylesheets/
+      │    ├── style.css
+      ├── images/
+           ├── image.jpeg
