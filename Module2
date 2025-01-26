@@ -5,3 +5,52 @@ Module2/
       │    ├── style.css
       ├── images/
            ├── image.jpeg
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Profile</title>
+    <link rel="stylesheet" href="stylesheets/style.css">
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Tom Kubicsek</h1>
+    </header>
+
+    <!-- Image Section -->
+    <section>
+        <img src="image.jpeg" alt="A photo of me" width="300">
+    </section>
+
+    <!-- About Me Section -->
+    <section>
+        <h2>About Me</h2>
+        <p>My hobbies include playing basketball, watching the NFL, and learning about cybersecurity.</p>
+        <p>In this class, I hope to gain a strong foundation in HTML, CSS, and web development to help me in my career goals.</p>
+    </section>
+
+    <!-- Class Schedule Section -->
+    <section>
+        <h2>My Class Schedule</h2>
+        <ul>
+            <li>Intro to Programming</li>
+            <li>Professional Responsibility</li>
+            <li>Task Force</li>
+            <li>Oral Communications</li>
+        </ul>
+    </section>
+
+</body>
+</html>
+/* General Styling */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+
+/
